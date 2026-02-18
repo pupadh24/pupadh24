@@ -1,6 +1,6 @@
 # Hi, I'm Pratham
 
-I'm a CS student at the University of Cincinnati (Honors Program) who enjoys building practical systems that solve problems I actually face in daily life.
+I'm a 2nd Year CS student at the University of Cincinnati (Honors Program) who enjoys building practical systems that solve problems I actually face in daily life.
 
 Most of my projects start from personal frustration: something that feels inefficient or broken, and I want to understand it deeply enough to build a proper solution. I’m really interested in backend engineering, security, and applied AI
 
@@ -55,7 +55,7 @@ This was my first large-scale full-stack project. I wanted to understand how rea
 
 Tech: Flask, MySQL, TiDB Cloud  
 Repo: https://github.com/pupadh24/Hospital-Management-Syetem  
-Live: https://hospital-management-system-0r2y.onrender.com/login  
+Live Demo: https://hospital-management-system-0r2y.onrender.com/login  
 
 ---
 
