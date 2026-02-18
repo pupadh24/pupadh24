@@ -10,7 +10,7 @@ Currently looking for **Software/CS/IT Co-op roles for Fall 2026.**
 
 ## What I'm Working On
 
-### AwareYourself
+### 🧠 AwareYourself
 This is a local-first anti-doomscrolling system designed to break mindless social media habits.
 
 I'm working on this because I was tired of losing hours of my day to social media without realizing it. Deleting apps never worked, and screen time limits were easy to bypass. The real issue wasn’t access, it was the *habit* itself.
@@ -22,7 +22,7 @@ Repo: https://github.com/pupadh24/AwareYourself
 
 ---
 
-### VaultGuard Finance AI
+### 🔐 VaultGuard Finance AI
 This is a privacy-first financial analysis assistant using local LLMs and RAG.
 
 For me, this started as a reaction to how people casually send their sensitive financial data uploaded into cloud AI tools. I wanted to explore whether it was possible to build a system that delivers useful insights *without* compromising privacy.
@@ -35,7 +35,7 @@ Live Demo: https://vaultguard-finance-ai-pupadh24.streamlit.app
 
 ---
 
-### CloudSecret
+### ☁️ CloudSecret
 This is an end-to-end encrypted, self-destructing secret sharing service.
 
 This project came from seeing people casually send passwords over insecure channels (plain text messages). I wanted to design a system where sensitive data simply *cannot exist* longer than necessary.
