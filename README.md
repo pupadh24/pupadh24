@@ -18,6 +18,7 @@ I'm working on this because I was tired of losing hours of my day to social medi
 AwareYourself intercepts app launches, forces a short pause to break the dopamine loop, and asks me to state my intent before continuing. Instead of blocking usage, it builds awareness. Over time, it logs this data so I can correlate digital habits with physical health signals (taken straight from my Apple Watch) like sleep, heart rate, and energy levels to better understand how scrolling affects my body and focus. This is 100% local and no data ever leaves my device or iCloud.
 
 Focus: behavioral design, local-first architecture, privacy, system-level data pipelines.
+
 Repo: https://github.com/pupadh24/AwareYourself
 
 ---
