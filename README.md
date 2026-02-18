@@ -10,6 +10,20 @@ Currently looking for **Software/CS/IT Co-op roles for Fall 2026.**
 
 ## What I'm Working On
 
+### 🔐 VaultGuard Finance AI
+This is a privacy first financial analysis assistant using local LLMs and RAG.
+
+For me, this started as a reaction to how people casually send their sensitive financial data uploaded into cloud AI tools. I wanted to explore whether it was possible to build a system that delivers useful insights *without* compromising privacy.
+
+VaultGuard uses a dual-mode architecture: a fully local mode for private inference and a high performance API based demo mode. I built a PII-redaction pipeline to sanitize transaction data before embedding generation, and working on a RAG pipeline using vector search for fast, secure querying.
+
+Tech: Python, Llama 3, Pandas, ChromaDB  
+Repo: https://github.com/pupadh24/VaultGuard-Finance-AI  
+Live Demo: https://vaultguard-finance-ai-pupadh24.streamlit.app  
+
+---
+
+
 ### 🧠 AwareYourself
 This is a local first anti doomscrolling system designed to break mindless social media habits.
 
@@ -21,18 +35,6 @@ Focus: behavioral design, local-first architecture, privacy, system-level data p
 
 Repo: https://github.com/pupadh24/AwareYourself
 
----
-
-### 🔐 VaultGuard Finance AI
-This is a privacy first financial analysis assistant using local LLMs and RAG.
-
-For me, this started as a reaction to how people casually send their sensitive financial data uploaded into cloud AI tools. I wanted to explore whether it was possible to build a system that delivers useful insights *without* compromising privacy.
-
-VaultGuard uses a dual-mode architecture: a fully local mode for private inference and a high performance API based demo mode. I built a PII-redaction pipeline to sanitize transaction data before embedding generation, and working on a RAG pipeline using vector search for fast, secure querying.
-
-Tech: Python, Llama 3, Pandas, ChromaDB  
-Repo: https://github.com/pupadh24/VaultGuard-Finance-AI  
-Live Demo: https://vaultguard-finance-ai-pupadh24.streamlit.app  
 
 ---
 
