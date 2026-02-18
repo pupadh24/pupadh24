@@ -2,7 +2,7 @@
 
 I'm a 2nd Year CS student at the University of Cincinnati (Honors Program) who enjoys building practical systems that solve problems I actually face in daily life.
 
-Most of my projects start from personal frustration: something that feels inefficient or broken, and I want to understand it deeply enough to build a proper solution. I’m really interested in backend engineering, security, and applied AI
+Most of my projects start from personal frustration: something that feels inefficient or broken, and I want to understand it deeply enough to build a proper solution.
 
 Currently looking for **Software/CS/IT Co-op roles for Fall 2026.**
 
